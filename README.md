@@ -1,1 +1,2 @@
 # pirma-repozitorija
+Kazkoks tekstas
